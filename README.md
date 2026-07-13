@@ -130,5 +130,5 @@ Parte del desarrollo de la plataforma se realizó como preparación previa a la 
 
 ## Last Release
 
-🔗 v.1.2.2 (no download available)
+🔗 v.1.2.2 (no download available)<br/><br/>
 🚀 ARSTUDIO PROJECT
